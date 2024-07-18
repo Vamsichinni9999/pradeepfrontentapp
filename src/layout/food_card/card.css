@@ -1,0 +1,8 @@
+.container{
+    padding-bottom: 30px;
+}
+.col-sm-3:hover{
+    
+    transform: scaleY(1.1);
+    box-shadow: 0 0 20px #81f604,0 0 10px rgb(116, 228, 4),0 0 10px #ccf70b;
+}
